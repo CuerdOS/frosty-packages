@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: packagecloud.io/cuerdos/frosty
 Label: frosty
 Date: Thu, 01 Aug 2024 10:06:13 +0000
@@ -380,3 +383,19 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058 14 main/source/Sources.bz2
  971838b6a0c4dfe6fccc37da2a4c44bea75bfffe41152b77aa96b48f39b2300f 20 main/source/Sources.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEzKvySKGsWLT3/SyZlJJ58+bHMIwFAmarXhUACgkQlJJ58+bH
+MIyG4BAApuBpbhx3nPDAhJhsyl95+RNEvwOHHnZOm+XYTsY0fPETdmxphoQIYSb1
+Ssx/mxuonKlzXfd5kF9a7+/WYU/QpweFAeb1Q/C050MMiL2+GWNmnw7C8uWAPIeu
+U586EP1aiXKuKyFp/0PV9ag3EMJNLXRnlhBwTR6Um6K922fAMhsPVHpW+WdvaC87
+3IvK2K81+2JBXDyf7j4HSz6RDZ6maqIaYSrwdjesDQSnmukQsAqEjUn4LMRrRk58
+Q6DJMJigftqBjXOCzw0u5W+g+++gOuPAkxbXOLZ3XJYbfQ1qDsxC/h7lW9ATQi74
+UNospDXnh0yFKxrmqwvsLYpnoUfcY3QAwGpfCdryHImR7ZOnvv+6QPCVMFkm5K5V
+zwwR1lvQ3z2llgWQTY+kBAbvQmoLINeItYzO+RzHgOm3nAXQY09+icxwYZsEgEAj
+ZEWatq6tFupnRJfDDP/qN/zHuf0jZZUoCPwcutXATUyw07K6MGR+Ll/zETuawhp/
+mYXn7FiRsjlBsjfeW0cA9CFlqW+MuNvocpw3jE1bUnDfmhnFSDoiNUy6tyiReD9f
+Lj6odrJY5Z/Tr/3sex2Jm9VljHrbbPxTWvfmxbEZG+Y2pEF5EebFwVqTHNW/+DPF
+PZQBKyN2SK0zxKj9j1k//Yugn41IO84Mem9x3bpkFBDsRipKOv4=
+=vzGU
+-----END PGP SIGNATURE-----

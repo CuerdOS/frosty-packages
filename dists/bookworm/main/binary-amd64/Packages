@@ -1,0 +1,28 @@
+Package: i3wm-metapackage
+Priority: optional
+Section: misc
+Maintainer: CuerdOS Dev Team <cuerdoslinux@proton.me>
+Architecture: all
+Version: 1.0
+Filename: pool/bookworm/main/i/i3wm-metapackage/i3wm-metapackage_1.0_all.deb
+Size: 700
+MD5sum: 9db3b49e73bbfb9a0b4ce7d7f07c7bde
+SHA1: 51c083fad075c0bf4373f45553137d68c2138370
+SHA256: ed805283f19386a94f91f63a5c708f4ff0fea79431ecd1cfe5c5f13f82c16438
+SHA512: 3a1a391f2cfca8119b3ca400dea02bb6179bc24ac04e82f12f9d9162c93ba3edf5d820ff8257222062b464a855fd9bc04dce7c104d744bc173e6f558c81a56af
+Description: I3WM metapackage
+
+Package: icewm-metapackage
+Priority: optional
+Section: misc
+Maintainer: CuerdOS Dev Team <cuerdoslinux@proton.me>
+Architecture: all
+Version: 1.0
+Filename: pool/bookworm/main/i/icewm-metapackage/icewm-metapackage_1.0_all.deb
+Size: 700
+MD5sum: 911b3f1837893eb0d4b18d22d77ace84
+SHA1: 91d01b918c6f470b32ca38442d82a049ac036eaa
+SHA256: 2ee33f62aa916bdf1b6a77ee52fd41e4f28a40fb57e78e4ea09ec16302e259a2
+SHA512: a003fa57d8e5d20db24a92b532be6ad1ae88387f73b1258ec11ba2b032f6e5e578b5c059be2746a8a19936b9cf22ad5008289ddb5b53e12bc8cf2ef847b10a61
+Description: IceWM metapackage
+
